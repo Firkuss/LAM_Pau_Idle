@@ -1,0 +1,3939 @@
+fileFormatVersion: 2
+guid: 72f0ecace8bf90c49bd75e3adb7b3467
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1428792584791698291
+    second: SNES - Harvest Moon - Animals - Cow_0
+  - first:
+      213: 8386775462273316339
+    second: SNES - Harvest Moon - Animals - Cow_1
+  - first:
+      213: -1442498648864571677
+    second: SNES - Harvest Moon - Animals - Cow_2
+  - first:
+      213: 3750758074491151448
+    second: SNES - Harvest Moon - Animals - Cow_3
+  - first:
+      213: 7119940228318450875
+    second: SNES - Harvest Moon - Animals - Cow_4
+  - first:
+      213: -731838098428875434
+    second: SNES - Harvest Moon - Animals - Cow_5
+  - first:
+      213: -3134856158486561176
+    second: SNES - Harvest Moon - Animals - Cow_6
+  - first:
+      213: -4189072554789330850
+    second: SNES - Harvest Moon - Animals - Cow_7
+  - first:
+      213: 1956772201382359054
+    second: SNES - Harvest Moon - Animals - Cow_8
+  - first:
+      213: -4617330871781927139
+    second: SNES - Harvest Moon - Animals - Cow_9
+  - first:
+      213: 3377063541871271122
+    second: SNES - Harvest Moon - Animals - Cow_10
+  - first:
+      213: 6702025867510824425
+    second: SNES - Harvest Moon - Animals - Cow_11
+  - first:
+      213: 5353942121858873981
+    second: SNES - Harvest Moon - Animals - Cow_12
+  - first:
+      213: 2815730423382801111
+    second: SNES - Harvest Moon - Animals - Cow_13
+  - first:
+      213: 8563094103088179717
+    second: SNES - Harvest Moon - Animals - Cow_14
+  - first:
+      213: 9199447991289635239
+    second: SNES - Harvest Moon - Animals - Cow_15
+  - first:
+      213: 1285261266992409248
+    second: SNES - Harvest Moon - Animals - Cow_16
+  - first:
+      213: 4618427814450316744
+    second: SNES - Harvest Moon - Animals - Cow_17
+  - first:
+      213: -924154423741628838
+    second: SNES - Harvest Moon - Animals - Cow_18
+  - first:
+      213: -6703866940086183742
+    second: SNES - Harvest Moon - Animals - Cow_19
+  - first:
+      213: 772349141407872257
+    second: SNES - Harvest Moon - Animals - Cow_20
+  - first:
+      213: 6064586874464425043
+    second: SNES - Harvest Moon - Animals - Cow_21
+  - first:
+      213: -9194527724404579941
+    second: SNES - Harvest Moon - Animals - Cow_22
+  - first:
+      213: 3579881617620121382
+    second: SNES - Harvest Moon - Animals - Cow_23
+  - first:
+      213: 56838478207011611
+    second: SNES - Harvest Moon - Animals - Cow_24
+  - first:
+      213: -9055063868490462977
+    second: SNES - Harvest Moon - Animals - Cow_25
+  - first:
+      213: 7638751865444938180
+    second: SNES - Harvest Moon - Animals - Cow_26
+  - first:
+      213: 7979290890872143482
+    second: SNES - Harvest Moon - Animals - Cow_27
+  - first:
+      213: 1650789161728505985
+    second: SNES - Harvest Moon - Animals - Cow_28
+  - first:
+      213: 3828500997014529379
+    second: SNES - Harvest Moon - Animals - Cow_29
+  - first:
+      213: -6006156060206678504
+    second: SNES - Harvest Moon - Animals - Cow_30
+  - first:
+      213: -865270755572789162
+    second: SNES - Harvest Moon - Animals - Cow_31
+  - first:
+      213: -4707742034606121260
+    second: SNES - Harvest Moon - Animals - Cow_32
+  - first:
+      213: 3679476248862184487
+    second: SNES - Harvest Moon - Animals - Cow_33
+  - first:
+      213: -7229179774951093191
+    second: SNES - Harvest Moon - Animals - Cow_34
+  - first:
+      213: -6829693250062074393
+    second: SNES - Harvest Moon - Animals - Cow_35
+  - first:
+      213: 5663159822467759789
+    second: SNES - Harvest Moon - Animals - Cow_36
+  - first:
+      213: -8134557228645084928
+    second: SNES - Harvest Moon - Animals - Cow_37
+  - first:
+      213: -3367566027712487395
+    second: SNES - Harvest Moon - Animals - Cow_38
+  - first:
+      213: 3443278094937286631
+    second: SNES - Harvest Moon - Animals - Cow_39
+  - first:
+      213: 1635212869561911794
+    second: SNES - Harvest Moon - Animals - Cow_40
+  - first:
+      213: 15694154815961387
+    second: SNES - Harvest Moon - Animals - Cow_41
+  - first:
+      213: -814953611716535686
+    second: SNES - Harvest Moon - Animals - Cow_42
+  - first:
+      213: -77127793714048069
+    second: SNES - Harvest Moon - Animals - Cow_43
+  - first:
+      213: -1338286638170705533
+    second: SNES - Harvest Moon - Animals - Cow_44
+  - first:
+      213: 6190256736122181895
+    second: SNES - Harvest Moon - Animals - Cow_45
+  - first:
+      213: 8654844998230389138
+    second: SNES - Harvest Moon - Animals - Cow_46
+  - first:
+      213: -4103489385647295629
+    second: SNES - Harvest Moon - Animals - Cow_47
+  - first:
+      213: 5011916027119768523
+    second: SNES - Harvest Moon - Animals - Cow_48
+  - first:
+      213: 579321099959291045
+    second: SNES - Harvest Moon - Animals - Cow_49
+  - first:
+      213: 6297934981157638759
+    second: SNES - Harvest Moon - Animals - Cow_50
+  - first:
+      213: -4412044049112877513
+    second: SNES - Harvest Moon - Animals - Cow_51
+  - first:
+      213: 4525028003625738038
+    second: SNES - Harvest Moon - Animals - Cow_52
+  - first:
+      213: 4851269274084375157
+    second: SNES - Harvest Moon - Animals - Cow_53
+  - first:
+      213: -3684546704377947568
+    second: SNES - Harvest Moon - Animals - Cow_54
+  - first:
+      213: 7110418838882576910
+    second: SNES - Harvest Moon - Animals - Cow_55
+  - first:
+      213: 4658500231803745655
+    second: SNES - Harvest Moon - Animals - Cow_56
+  - first:
+      213: -1594635754519799177
+    second: SNES - Harvest Moon - Animals - Cow_57
+  - first:
+      213: -4181891234895668126
+    second: SNES - Harvest Moon - Animals - Cow_58
+  - first:
+      213: -1026605214127422187
+    second: SNES - Harvest Moon - Animals - Cow_59
+  - first:
+      213: 7029348922319666664
+    second: SNES - Harvest Moon - Animals - Cow_60
+  - first:
+      213: 5472772739645349037
+    second: SNES - Harvest Moon - Animals - Cow_61
+  - first:
+      213: 1996040357783050637
+    second: SNES - Harvest Moon - Animals - Cow_62
+  - first:
+      213: -4635478305867885115
+    second: SNES - Harvest Moon - Animals - Cow_63
+  - first:
+      213: 8478869039973662412
+    second: SNES - Harvest Moon - Animals - Cow_64
+  - first:
+      213: -4729568742819122796
+    second: SNES - Harvest Moon - Animals - Cow_65
+  - first:
+      213: 2037204460287997060
+    second: SNES - Harvest Moon - Animals - Cow_66
+  - first:
+      213: 601064604070976045
+    second: SNES - Harvest Moon - Animals - Cow_67
+  - first:
+      213: -2896621648157439808
+    second: SNES - Harvest Moon - Animals - Cow_68
+  - first:
+      213: 3411009704933875748
+    second: SNES - Harvest Moon - Animals - Cow_69
+  - first:
+      213: -856069265726714205
+    second: SNES - Harvest Moon - Animals - Cow_70
+  - first:
+      213: -2698347131261614622
+    second: SNES - Harvest Moon - Animals - Cow_71
+  - first:
+      213: -6824917085857923500
+    second: SNES - Harvest Moon - Animals - Cow_72
+  - first:
+      213: -3690737448235280636
+    second: SNES - Harvest Moon - Animals - Cow_73
+  - first:
+      213: -8937409590888040736
+    second: SNES - Harvest Moon - Animals - Cow_74
+  - first:
+      213: 3059999373494856976
+    second: SNES - Harvest Moon - Animals - Cow_75
+  - first:
+      213: -3990677666194051171
+    second: SNES - Harvest Moon - Animals - Cow_76
+  - first:
+      213: -5266686932310043592
+    second: SNES - Harvest Moon - Animals - Cow_77
+  - first:
+      213: -8321440438806031923
+    second: SNES - Harvest Moon - Animals - Cow_78
+  - first:
+      213: 6580929939801930927
+    second: SNES - Harvest Moon - Animals - Cow_79
+  - first:
+      213: 7520810236567246887
+    second: SNES - Harvest Moon - Animals - Cow_80
+  - first:
+      213: 9084796646484741836
+    second: SNES - Harvest Moon - Animals - Cow_81
+  - first:
+      213: -5493741671089389957
+    second: SNES - Harvest Moon - Animals - Cow_82
+  - first:
+      213: 6371981488296319733
+    second: SNES - Harvest Moon - Animals - Cow_83
+  - first:
+      213: 1420951685177093657
+    second: SNES - Harvest Moon - Animals - Cow_84
+  - first:
+      213: -6855146722349142348
+    second: SNES - Harvest Moon - Animals - Cow_85
+  - first:
+      213: -7124684376848119651
+    second: SNES - Harvest Moon - Animals - Cow_86
+  - first:
+      213: 4887443498075540783
+    second: SNES - Harvest Moon - Animals - Cow_87
+  - first:
+      213: 2692645521553301581
+    second: SNES - Harvest Moon - Animals - Cow_88
+  - first:
+      213: -2344336659140806474
+    second: SNES - Harvest Moon - Animals - Cow_89
+  - first:
+      213: 3489855337906888687
+    second: SNES - Harvest Moon - Animals - Cow_90
+  - first:
+      213: 1246527150393769019
+    second: SNES - Harvest Moon - Animals - Cow_91
+  - first:
+      213: -6091353548746804423
+    second: SNES - Harvest Moon - Animals - Cow_92
+  - first:
+      213: 5037566906762082452
+    second: SNES - Harvest Moon - Animals - Cow_93
+  - first:
+      213: 7659488387179335356
+    second: SNES - Harvest Moon - Animals - Cow_94
+  - first:
+      213: -5152834979848003695
+    second: SNES - Harvest Moon - Animals - Cow_95
+  - first:
+      213: -6249446592941057902
+    second: SNES - Harvest Moon - Animals - Cow_96
+  - first:
+      213: 6417764977995967313
+    second: SNES - Harvest Moon - Animals - Cow_97
+  - first:
+      213: 8686716012139264170
+    second: SNES - Harvest Moon - Animals - Cow_98
+  - first:
+      213: 6001940481259439969
+    second: SNES - Harvest Moon - Animals - Cow_99
+  - first:
+      213: 7092739058946752125
+    second: SNES - Harvest Moon - Animals - Cow_100
+  - first:
+      213: 8862020258179116952
+    second: SNES - Harvest Moon - Animals - Cow_101
+  - first:
+      213: -5729538825444182371
+    second: SNES - Harvest Moon - Animals - Cow_102
+  - first:
+      213: 8791804321365048051
+    second: SNES - Harvest Moon - Animals - Cow_103
+  - first:
+      213: 2903336983088347461
+    second: SNES - Harvest Moon - Animals - Cow_104
+  - first:
+      213: -4533732350650555131
+    second: SNES - Harvest Moon - Animals - Cow_105
+  - first:
+      213: 8919014010812522407
+    second: SNES - Harvest Moon - Animals - Cow_106
+  - first:
+      213: 8904261568054819799
+    second: SNES - Harvest Moon - Animals - Cow_107
+  - first:
+      213: -5887727554419038949
+    second: SNES - Harvest Moon - Animals - Cow_108
+  - first:
+      213: -3566496363524753271
+    second: SNES - Harvest Moon - Animals - Cow_109
+  - first:
+      213: -7436055817244719367
+    second: SNES - Harvest Moon - Animals - Cow_110
+  - first:
+      213: 6943630052767207392
+    second: SNES - Harvest Moon - Animals - Cow_111
+  - first:
+      213: -7434304828061000531
+    second: SNES - Harvest Moon - Animals - Cow_112
+  - first:
+      213: -1999294861789818410
+    second: SNES - Harvest Moon - Animals - Cow_113
+  - first:
+      213: 48673658316352704
+    second: SNES - Harvest Moon - Animals - Cow_114
+  - first:
+      213: -9013197112305292699
+    second: SNES - Harvest Moon - Animals - Cow_115
+  - first:
+      213: -546938868467308530
+    second: SNES - Harvest Moon - Animals - Cow_116
+  - first:
+      213: -2559310306498617861
+    second: SNES - Harvest Moon - Animals - Cow_117
+  - first:
+      213: -2994055450907328332
+    second: SNES - Harvest Moon - Animals - Cow_118
+  - first:
+      213: 2815719834529796190
+    second: SNES - Harvest Moon - Animals - Cow_119
+  - first:
+      213: 5536175508846189969
+    second: SNES - Harvest Moon - Animals - Cow_120
+  - first:
+      213: 1496669639085320795
+    second: SNES - Harvest Moon - Animals - Cow_121
+  - first:
+      213: 7256357736393629317
+    second: SNES - Harvest Moon - Animals - Cow_122
+  - first:
+      213: 2721010497457789229
+    second: SNES - Harvest Moon - Animals - Cow_123
+  - first:
+      213: 3198463305980964630
+    second: SNES - Harvest Moon - Animals - Cow_124
+  - first:
+      213: 6834260406321894038
+    second: SNES - Harvest Moon - Animals - Cow_125
+  - first:
+      213: -7448201587024956160
+    second: SNES - Harvest Moon - Animals - Cow_126
+  - first:
+      213: -7356787464264999815
+    second: SNES - Harvest Moon - Animals - Cow_127
+  - first:
+      213: -2044217718260039630
+    second: SNES - Harvest Moon - Animals - Cow_128
+  - first:
+      213: -3103386876354754973
+    second: SNES - Harvest Moon - Animals - Cow_129
+  - first:
+      213: -6848667029351983452
+    second: SNES - Harvest Moon - Animals - Cow_130
+  - first:
+      213: 5256293831245288642
+    second: SNES - Harvest Moon - Animals - Cow_131
+  - first:
+      213: 4444221614788523544
+    second: SNES - Harvest Moon - Animals - Cow_132
+  - first:
+      213: 2335168832750699986
+    second: SNES - Harvest Moon - Animals - Cow_133
+  - first:
+      213: 529561230270679852
+    second: SNES - Harvest Moon - Animals - Cow_134
+  - first:
+      213: 4268893691126535904
+    second: SNES - Harvest Moon - Animals - Cow_135
+  - first:
+      213: 8779472591171321989
+    second: SNES - Harvest Moon - Animals - Cow_136
+  - first:
+      213: 178280681763417872
+    second: SNES - Harvest Moon - Animals - Cow_137
+  - first:
+      213: -8432105010236532346
+    second: SNES - Harvest Moon - Animals - Cow_138
+  - first:
+      213: -7949225184745410725
+    second: SNES - Harvest Moon - Animals - Cow_139
+  - first:
+      213: -3025818097296741708
+    second: SNES - Harvest Moon - Animals - Cow_140
+  - first:
+      213: 1451179511068634025
+    second: SNES - Harvest Moon - Animals - Cow_141
+  - first:
+      213: -8566822183768098445
+    second: SNES - Harvest Moon - Animals - Cow_142
+  - first:
+      213: -2457406183155764968
+    second: SNES - Harvest Moon - Animals - Cow_143
+  - first:
+      213: -5435738522445080453
+    second: SNES - Harvest Moon - Animals - Cow_144
+  - first:
+      213: 4463408686112244233
+    second: SNES - Harvest Moon - Animals - Cow_145
+  - first:
+      213: -8016300637508417581
+    second: SNES - Harvest Moon - Animals - Cow_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ba83a294714d310800000000000000
+      internalID: 1428792584791698291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 604
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f573cf09dfc36470800000000000000
+      internalID: 8386775462273316339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 604
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee327d1f173bfbe0800000000000000
+      internalID: -1442498648864571677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 603
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854297ca89e5d0430800000000000000
+      internalID: 3750758074491151448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 603
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb45fe22aeb1fc260800000000000000
+      internalID: 7119940228318450875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 604
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dac0e702df7d5f0800000000000000
+      internalID: -731838098428875434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 603
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e767bdee0ce74d0800000000000000
+      internalID: -3134856158486561176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 604
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50a171c4bc6dd5c0800000000000000
+      internalID: -4189072554789330850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 603
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0031c123f9d72b10800000000000000
+      internalID: 1956772201382359054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 603
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d175ef82902fbefb0800000000000000
+      internalID: -4617330871781927139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcd82d166dbdde20800000000000000
+      internalID: 3377063541871271122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 563
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed36748401620d50800000000000000
+      internalID: 6702025867510824425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 563
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a36615ef50d4a40800000000000000
+      internalID: 5353942121858873981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 563
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dafdf4d6eb731720800000000000000
+      internalID: 2815730423382801111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 563
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a20d0b7b836d670800000000000000
+      internalID: 8563094103088179717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 564
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1ef7215310baf70800000000000000
+      internalID: 9199447991289635239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 563
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaa6ae005a26d110800000000000000
+      internalID: 1285261266992409248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 564
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c54815b0a3f71040800000000000000
+      internalID: 4618427814450316744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 564
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e364fa27ebc23f0800000000000000
+      internalID: -924154423741628838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 564
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c89dae598417f2a0800000000000000
+      internalID: -6703866940086183742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 563
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105b138b37fe7ba00800000000000000
+      internalID: 772349141407872257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 563
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354d2f971adb92450800000000000000
+      internalID: 6064586874464425043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b916265dfb9766080800000000000000
+      internalID: -9194527724404579941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 523
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b23c3d5b4ea130800000000000000
+      internalID: 3579881617620121382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 523
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b4a177b4ee9c000800000000000000
+      internalID: 56838478207011611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 524
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8c62c2363f55280800000000000000
+      internalID: -9055063868490462977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 523
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1b23b895c420a60800000000000000
+      internalID: 7638751865444938180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 524
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eb1f50ac22cbe60800000000000000
+      internalID: 7979290890872143482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 524
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18874ef0ff7c8e610800000000000000
+      internalID: 1650789161728505985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 524
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365a74d5f51912530800000000000000
+      internalID: 3828500997014529379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 523
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e32dd92e8d5aca0800000000000000
+      internalID: -6006156060206678504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 523
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650dc8b05d0fdf3f0800000000000000
+      internalID: -865270755572789162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de902def8dbaaeb0800000000000000
+      internalID: -4707742034606121260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 483
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724dae45720201330800000000000000
+      internalID: 3679476248862184487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 483
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c0a98eb4bccab90800000000000000
+      internalID: -7229179774951093191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 483
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edba21ac2e0831a0800000000000000
+      internalID: -6829693250062074393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 484
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae74749ad5979e40800000000000000
+      internalID: 5663159822467759789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_37
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 484
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001168d9c4f3c1f80800000000000000
+      internalID: -8134557228645084928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 484
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1026883a800441d0800000000000000
+      internalID: -3367566027712487395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 485
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7ee9f1f2bf8cf20800000000000000
+      internalID: 3443278094937286631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 443
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9826ee07171b610800000000000000
+      internalID: 1635212869561911794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 443
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29fada20c1c73000800000000000000
+      internalID: 15694154815961387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 443
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ad6390204b0b4f0800000000000000
+      internalID: -814953611716535686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 443
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb35d552eacfdeef0800000000000000
+      internalID: -77127793714048069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 443
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381fe24a4637d6de0800000000000000
+      internalID: -1338286638170705533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 443
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709180144b538e550800000000000000
+      internalID: 6190256736122181895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 441
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b699abaf2c1870800000000000000
+      internalID: 8654844998230389138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_47
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 441
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37338ec152a7d07c0800000000000000
+      internalID: -4103489385647295629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_48
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 441
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc39f888217ed8540800000000000000
+      internalID: 5011916027119768523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_49
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 441
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac46f598792a0800800000000000000
+      internalID: 579321099959291045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_50
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 441
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762586a5f72c66750800000000000000
+      internalID: 6297934981157638759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 403
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7363047305545c2c0800000000000000
+      internalID: -4412044049112877513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 403
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f9ec2aef02cce30800000000000000
+      internalID: 4525028003625738038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 403
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af09f93bb235340800000000000000
+      internalID: 4851269274084375157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 403
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a573f3b4cdddcc0800000000000000
+      internalID: -3684546704377947568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 403
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a67d7e2484da260800000000000000
+      internalID: 7110418838882576910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_56
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 403
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775bcbe674156a040800000000000000
+      internalID: 4658500231803745655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_57
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 403
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ad5b1ea37bed9e0800000000000000
+      internalID: -1594635754519799177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_58
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 403
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c59b61410f6f5c0800000000000000
+      internalID: -4181891234895668126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_59
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 404
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5150f573ff3c0c1f0800000000000000
+      internalID: -1026605214127422187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_60
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 403
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed732d0a934d8160800000000000000
+      internalID: 7029348922319666664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_61
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 403
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac900b8fc133fb40800000000000000
+      internalID: 5472772739645349037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d899003412c53bb10800000000000000
+      internalID: 1996040357783050637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 363
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c517b66a097bafb0800000000000000
+      internalID: -4635478305867885115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 363
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceffa8087efaa570800000000000000
+      internalID: 8478869039973662412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 362
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491b97769423d5eb0800000000000000
+      internalID: -4729568742819122796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_66
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 360
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484be4eb9aa954c10800000000000000
+      internalID: 2037204460287997060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_67
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 362
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a16b4a219675800800000000000000
+      internalID: 601064604070976045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_68
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 362
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c88edc35f12dc7d0800000000000000
+      internalID: -2896621648157439808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_69
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 360
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4206efb1147565f20800000000000000
+      internalID: 3411009704933875748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_70
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 359
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeca39d981ae14f0800000000000000
+      internalID: -856069265726714205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_71
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 359
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e50570a49b8d8ad0800000000000000
+      internalID: -2698347131261614622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eb1f302160941a0800000000000000
+      internalID: -6824917085857923500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_73
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 323
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40754be58ddd7ccc0800000000000000
+      internalID: -3690737448235280636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 323
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6f2fa5451f7f380800000000000000
+      internalID: -8937409590888040736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_75
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 323
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d2416b73d477a20800000000000000
+      internalID: 3059999373494856976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_76
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 323
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f2b6d5ec34e98c0800000000000000
+      internalID: -3990677666194051171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_77
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 322
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834d770a328f8e6b0800000000000000
+      internalID: -5266686932310043592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_78
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 322
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15561820e448c80800000000000000
+      internalID: -8321440438806031923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_79
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 321
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac70a9b9e8245b50800000000000000
+      internalID: 6580929939801930927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_80
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 320
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72856bd20194f5860800000000000000
+      internalID: 7520810236567246887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_81
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 320
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce026aaa6ea31e70800000000000000
+      internalID: 9084796646484741836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eb4f6ae0f42c3b0800000000000000
+      internalID: -5493741671089389957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_83
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 283
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa54454763dd6850800000000000000
+      internalID: 6371981488296319733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_84
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 283
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e29f5770c38b310800000000000000
+      internalID: 1420951685177093657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_85
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 283
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be223b4060add0a0800000000000000
+      internalID: -6855146722349142348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_86
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 282
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d984135be49002d90800000000000000
+      internalID: -7124684376848119651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 290
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dc59a77ffa3d340800000000000000
+      internalID: 4887443498075540783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d402b3ae5d23e5520800000000000000
+      internalID: 2692645521553301581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 243
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b87cf5ba3e377fd0800000000000000
+      internalID: -2344336659140806474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_90
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 243
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefd07590f47e6030800000000000000
+      internalID: 3489855337906888687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 243
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cb912c6dd8c4110800000000000000
+      internalID: 1246527150393769019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 212
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933b1a5883a277ba0800000000000000
+      internalID: -6091353548746804423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_93
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 213
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49831d9596809e540800000000000000
+      internalID: 5037566906762082452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_94
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 212
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbecd0f3b18fb4a60800000000000000
+      internalID: 7659488387179335356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_95
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 212
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fd3fff2e37d78b0800000000000000
+      internalID: -5152834979848003695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 212
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29819f84f618549a0800000000000000
+      internalID: -6249446592941057902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_97
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 211
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b6465ae3b701950800000000000000
+      internalID: 6417764977995967313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_98
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 212
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa83248503a6d8870800000000000000
+      internalID: 8686716012139264170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_99
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 212
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167818c611d2b4350800000000000000
+      internalID: 6001940481259439969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_100
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 212
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e3f0d58987e6260800000000000000
+      internalID: 7092739058946752125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_101
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 211
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fe419c8783cfa70800000000000000
+      internalID: 8862020258179116952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_102
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 177
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96379e6bc69c70b0800000000000000
+      internalID: -5729538825444182371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_103
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 177
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa35b50373c20a70800000000000000
+      internalID: 8791804321365048051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_104
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 177
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5493c348a99ba4820800000000000000
+      internalID: 2903336983088347461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_105
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 177
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505e6c4a272f411c0800000000000000
+      internalID: -4533732350650555131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_106
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 176
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af5635ecf3b6cb70800000000000000
+      internalID: 8919014010812522407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_107
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 177
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbf11728ba429b70800000000000000
+      internalID: 8904261568054819799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_108
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 141
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15e298dbf69a4ea0800000000000000
+      internalID: -5887727554419038949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_109
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 141
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98872671472418ec0800000000000000
+      internalID: -3566496363524753271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_110
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 141
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6c623d1a2ddc890800000000000000
+      internalID: -7436055817244719367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_111
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 141
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef8aea7ebabc5060800000000000000
+      internalID: 6943630052767207392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_112
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 141
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd373c52b04d890800000000000000
+      internalID: -7434304828061000531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_113
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 141
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d111c97ae31144e0800000000000000
+      internalID: -1999294861789818410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_114
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 140
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc6dd13f6ceca000800000000000000
+      internalID: 48673658316352704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_115
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 141
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a6776faf0bae280800000000000000
+      internalID: -9013197112305292699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_116
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 141
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08e6273ff1e868f0800000000000000
+      internalID: -546938868467308530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_117
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd572706d08b7cd0800000000000000
+      internalID: -2559310306498617861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_118
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 107
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0c8da3e6af276d0800000000000000
+      internalID: -2994055450907328332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_119
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 107
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e509b2c6542731720800000000000000
+      internalID: 2815719834529796190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_120
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 106
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d9efa1b4274dc40800000000000000
+      internalID: 5536175508846189969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_121
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 107
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aeac76b1d35c410800000000000000
+      internalID: 1496669639085320795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_122
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 106
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e56e85ae2c3b460800000000000000
+      internalID: 7256357736393629317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 107
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29941381a8f2c520800000000000000
+      internalID: 2721010497457789229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_124
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 107
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fed1c3e69336c20800000000000000
+      internalID: 3198463305980964630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_125
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 105
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692555d41ab28de50800000000000000
+      internalID: 6834260406321894038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_126
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 105
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00570ed6e1ca2a890800000000000000
+      internalID: -7448201587024956160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_127
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c107877c077e990800000000000000
+      internalID: -7356787464264999815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_128
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 71
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2300d83e0da71a3e0800000000000000
+      internalID: -2044217718260039630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_129
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3660442141e8ee4d0800000000000000
+      internalID: -3103386876354754973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_130
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 71
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a69b826f95a4f0a0800000000000000
+      internalID: -6848667029351983452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_131
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 71
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4d376f36b12f840800000000000000
+      internalID: 5256293831245288642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_132
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 71
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816359c130c0dad30800000000000000
+      internalID: 4444221614788523544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d54bae5eaf286020800000000000000
+      internalID: 2335168832750699986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_134
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b4a191221695700800000000000000
+      internalID: 529561230270679852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_135
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 36
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6d08bc1382e3b30800000000000000
+      internalID: 4268893691126535904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_136
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 36
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5808b085ec3f6d970800000000000000
+      internalID: 8779472591171321989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_137
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 36
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fa2d2e551697200800000000000000
+      internalID: 178280681763417872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_138
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6895f0c1b252bfa80800000000000000
+      internalID: -8432105010236532346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_139
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f29afafcdaea190800000000000000
+      internalID: -7949225184745410725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_140
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baeda3d8722206d0800000000000000
+      internalID: -3025818097296741708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_141
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab229e9310a32410800000000000000
+      internalID: 1451179511068634025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_142
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379f092ec988c1980800000000000000
+      internalID: -8566822183768098445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_143
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811f628a81a85edd0800000000000000
+      internalID: -2457406183155764968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_144
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7811c51d906094b0800000000000000
+      internalID: -5435738522445080453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_145
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9020d174d8631fd30800000000000000
+      internalID: 4463408686112244233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Cow_146
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c298da0160c090800000000000000
+      internalID: -8016300637508417581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Harvest Moon - Animals - Cow_0: 1428792584791698291
+      SNES - Harvest Moon - Animals - Cow_1: 8386775462273316339
+      SNES - Harvest Moon - Animals - Cow_10: 3377063541871271122
+      SNES - Harvest Moon - Animals - Cow_100: 7092739058946752125
+      SNES - Harvest Moon - Animals - Cow_101: 8862020258179116952
+      SNES - Harvest Moon - Animals - Cow_102: -5729538825444182371
+      SNES - Harvest Moon - Animals - Cow_103: 8791804321365048051
+      SNES - Harvest Moon - Animals - Cow_104: 2903336983088347461
+      SNES - Harvest Moon - Animals - Cow_105: -4533732350650555131
+      SNES - Harvest Moon - Animals - Cow_106: 8919014010812522407
+      SNES - Harvest Moon - Animals - Cow_107: 8904261568054819799
+      SNES - Harvest Moon - Animals - Cow_108: -5887727554419038949
+      SNES - Harvest Moon - Animals - Cow_109: -3566496363524753271
+      SNES - Harvest Moon - Animals - Cow_11: 6702025867510824425
+      SNES - Harvest Moon - Animals - Cow_110: -7436055817244719367
+      SNES - Harvest Moon - Animals - Cow_111: 6943630052767207392
+      SNES - Harvest Moon - Animals - Cow_112: -7434304828061000531
+      SNES - Harvest Moon - Animals - Cow_113: -1999294861789818410
+      SNES - Harvest Moon - Animals - Cow_114: 48673658316352704
+      SNES - Harvest Moon - Animals - Cow_115: -9013197112305292699
+      SNES - Harvest Moon - Animals - Cow_116: -546938868467308530
+      SNES - Harvest Moon - Animals - Cow_117: -2559310306498617861
+      SNES - Harvest Moon - Animals - Cow_118: -2994055450907328332
+      SNES - Harvest Moon - Animals - Cow_119: 2815719834529796190
+      SNES - Harvest Moon - Animals - Cow_12: 5353942121858873981
+      SNES - Harvest Moon - Animals - Cow_120: 5536175508846189969
+      SNES - Harvest Moon - Animals - Cow_121: 1496669639085320795
+      SNES - Harvest Moon - Animals - Cow_122: 7256357736393629317
+      SNES - Harvest Moon - Animals - Cow_123: 2721010497457789229
+      SNES - Harvest Moon - Animals - Cow_124: 3198463305980964630
+      SNES - Harvest Moon - Animals - Cow_125: 6834260406321894038
+      SNES - Harvest Moon - Animals - Cow_126: -7448201587024956160
+      SNES - Harvest Moon - Animals - Cow_127: -7356787464264999815
+      SNES - Harvest Moon - Animals - Cow_128: -2044217718260039630
+      SNES - Harvest Moon - Animals - Cow_129: -3103386876354754973
+      SNES - Harvest Moon - Animals - Cow_13: 2815730423382801111
+      SNES - Harvest Moon - Animals - Cow_130: -6848667029351983452
+      SNES - Harvest Moon - Animals - Cow_131: 5256293831245288642
+      SNES - Harvest Moon - Animals - Cow_132: 4444221614788523544
+      SNES - Harvest Moon - Animals - Cow_133: 2335168832750699986
+      SNES - Harvest Moon - Animals - Cow_134: 529561230270679852
+      SNES - Harvest Moon - Animals - Cow_135: 4268893691126535904
+      SNES - Harvest Moon - Animals - Cow_136: 8779472591171321989
+      SNES - Harvest Moon - Animals - Cow_137: 178280681763417872
+      SNES - Harvest Moon - Animals - Cow_138: -8432105010236532346
+      SNES - Harvest Moon - Animals - Cow_139: -7949225184745410725
+      SNES - Harvest Moon - Animals - Cow_14: 8563094103088179717
+      SNES - Harvest Moon - Animals - Cow_140: -3025818097296741708
+      SNES - Harvest Moon - Animals - Cow_141: 1451179511068634025
+      SNES - Harvest Moon - Animals - Cow_142: -8566822183768098445
+      SNES - Harvest Moon - Animals - Cow_143: -2457406183155764968
+      SNES - Harvest Moon - Animals - Cow_144: -5435738522445080453
+      SNES - Harvest Moon - Animals - Cow_145: 4463408686112244233
+      SNES - Harvest Moon - Animals - Cow_146: -8016300637508417581
+      SNES - Harvest Moon - Animals - Cow_15: 9199447991289635239
+      SNES - Harvest Moon - Animals - Cow_16: 1285261266992409248
+      SNES - Harvest Moon - Animals - Cow_17: 4618427814450316744
+      SNES - Harvest Moon - Animals - Cow_18: -924154423741628838
+      SNES - Harvest Moon - Animals - Cow_19: -6703866940086183742
+      SNES - Harvest Moon - Animals - Cow_2: -1442498648864571677
+      SNES - Harvest Moon - Animals - Cow_20: 772349141407872257
+      SNES - Harvest Moon - Animals - Cow_21: 6064586874464425043
+      SNES - Harvest Moon - Animals - Cow_22: -9194527724404579941
+      SNES - Harvest Moon - Animals - Cow_23: 3579881617620121382
+      SNES - Harvest Moon - Animals - Cow_24: 56838478207011611
+      SNES - Harvest Moon - Animals - Cow_25: -9055063868490462977
+      SNES - Harvest Moon - Animals - Cow_26: 7638751865444938180
+      SNES - Harvest Moon - Animals - Cow_27: 7979290890872143482
+      SNES - Harvest Moon - Animals - Cow_28: 1650789161728505985
+      SNES - Harvest Moon - Animals - Cow_29: 3828500997014529379
+      SNES - Harvest Moon - Animals - Cow_3: 3750758074491151448
+      SNES - Harvest Moon - Animals - Cow_30: -6006156060206678504
+      SNES - Harvest Moon - Animals - Cow_31: -865270755572789162
+      SNES - Harvest Moon - Animals - Cow_32: -4707742034606121260
+      SNES - Harvest Moon - Animals - Cow_33: 3679476248862184487
+      SNES - Harvest Moon - Animals - Cow_34: -7229179774951093191
+      SNES - Harvest Moon - Animals - Cow_35: -6829693250062074393
+      SNES - Harvest Moon - Animals - Cow_36: 5663159822467759789
+      SNES - Harvest Moon - Animals - Cow_37: -8134557228645084928
+      SNES - Harvest Moon - Animals - Cow_38: -3367566027712487395
+      SNES - Harvest Moon - Animals - Cow_39: 3443278094937286631
+      SNES - Harvest Moon - Animals - Cow_4: 7119940228318450875
+      SNES - Harvest Moon - Animals - Cow_40: 1635212869561911794
+      SNES - Harvest Moon - Animals - Cow_41: 15694154815961387
+      SNES - Harvest Moon - Animals - Cow_42: -814953611716535686
+      SNES - Harvest Moon - Animals - Cow_43: -77127793714048069
+      SNES - Harvest Moon - Animals - Cow_44: -1338286638170705533
+      SNES - Harvest Moon - Animals - Cow_45: 6190256736122181895
+      SNES - Harvest Moon - Animals - Cow_46: 8654844998230389138
+      SNES - Harvest Moon - Animals - Cow_47: -4103489385647295629
+      SNES - Harvest Moon - Animals - Cow_48: 5011916027119768523
+      SNES - Harvest Moon - Animals - Cow_49: 579321099959291045
+      SNES - Harvest Moon - Animals - Cow_5: -731838098428875434
+      SNES - Harvest Moon - Animals - Cow_50: 6297934981157638759
+      SNES - Harvest Moon - Animals - Cow_51: -4412044049112877513
+      SNES - Harvest Moon - Animals - Cow_52: 4525028003625738038
+      SNES - Harvest Moon - Animals - Cow_53: 4851269274084375157
+      SNES - Harvest Moon - Animals - Cow_54: -3684546704377947568
+      SNES - Harvest Moon - Animals - Cow_55: 7110418838882576910
+      SNES - Harvest Moon - Animals - Cow_56: 4658500231803745655
+      SNES - Harvest Moon - Animals - Cow_57: -1594635754519799177
+      SNES - Harvest Moon - Animals - Cow_58: -4181891234895668126
+      SNES - Harvest Moon - Animals - Cow_59: -1026605214127422187
+      SNES - Harvest Moon - Animals - Cow_6: -3134856158486561176
+      SNES - Harvest Moon - Animals - Cow_60: 7029348922319666664
+      SNES - Harvest Moon - Animals - Cow_61: 5472772739645349037
+      SNES - Harvest Moon - Animals - Cow_62: 1996040357783050637
+      SNES - Harvest Moon - Animals - Cow_63: -4635478305867885115
+      SNES - Harvest Moon - Animals - Cow_64: 8478869039973662412
+      SNES - Harvest Moon - Animals - Cow_65: -4729568742819122796
+      SNES - Harvest Moon - Animals - Cow_66: 2037204460287997060
+      SNES - Harvest Moon - Animals - Cow_67: 601064604070976045
+      SNES - Harvest Moon - Animals - Cow_68: -2896621648157439808
+      SNES - Harvest Moon - Animals - Cow_69: 3411009704933875748
+      SNES - Harvest Moon - Animals - Cow_7: -4189072554789330850
+      SNES - Harvest Moon - Animals - Cow_70: -856069265726714205
+      SNES - Harvest Moon - Animals - Cow_71: -2698347131261614622
+      SNES - Harvest Moon - Animals - Cow_72: -6824917085857923500
+      SNES - Harvest Moon - Animals - Cow_73: -3690737448235280636
+      SNES - Harvest Moon - Animals - Cow_74: -8937409590888040736
+      SNES - Harvest Moon - Animals - Cow_75: 3059999373494856976
+      SNES - Harvest Moon - Animals - Cow_76: -3990677666194051171
+      SNES - Harvest Moon - Animals - Cow_77: -5266686932310043592
+      SNES - Harvest Moon - Animals - Cow_78: -8321440438806031923
+      SNES - Harvest Moon - Animals - Cow_79: 6580929939801930927
+      SNES - Harvest Moon - Animals - Cow_8: 1956772201382359054
+      SNES - Harvest Moon - Animals - Cow_80: 7520810236567246887
+      SNES - Harvest Moon - Animals - Cow_81: 9084796646484741836
+      SNES - Harvest Moon - Animals - Cow_82: -5493741671089389957
+      SNES - Harvest Moon - Animals - Cow_83: 6371981488296319733
+      SNES - Harvest Moon - Animals - Cow_84: 1420951685177093657
+      SNES - Harvest Moon - Animals - Cow_85: -6855146722349142348
+      SNES - Harvest Moon - Animals - Cow_86: -7124684376848119651
+      SNES - Harvest Moon - Animals - Cow_87: 4887443498075540783
+      SNES - Harvest Moon - Animals - Cow_88: 2692645521553301581
+      SNES - Harvest Moon - Animals - Cow_89: -2344336659140806474
+      SNES - Harvest Moon - Animals - Cow_9: -4617330871781927139
+      SNES - Harvest Moon - Animals - Cow_90: 3489855337906888687
+      SNES - Harvest Moon - Animals - Cow_91: 1246527150393769019
+      SNES - Harvest Moon - Animals - Cow_92: -6091353548746804423
+      SNES - Harvest Moon - Animals - Cow_93: 5037566906762082452
+      SNES - Harvest Moon - Animals - Cow_94: 7659488387179335356
+      SNES - Harvest Moon - Animals - Cow_95: -5152834979848003695
+      SNES - Harvest Moon - Animals - Cow_96: -6249446592941057902
+      SNES - Harvest Moon - Animals - Cow_97: 6417764977995967313
+      SNES - Harvest Moon - Animals - Cow_98: 8686716012139264170
+      SNES - Harvest Moon - Animals - Cow_99: 6001940481259439969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

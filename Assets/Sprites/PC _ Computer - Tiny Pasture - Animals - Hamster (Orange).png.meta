@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: a316bd3d4e52d054eaedafee06f829c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3573680036355013144
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_0
+  - first:
+      213: -3023464581725242598
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_1
+  - first:
+      213: -3369681305120693548
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_2
+  - first:
+      213: 5416549237412442737
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_3
+  - first:
+      213: -1700070292845627753
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_4
+  - first:
+      213: 7290141791864175815
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_5
+  - first:
+      213: -6028549804118502101
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_6
+  - first:
+      213: -920128707596369952
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_7
+  - first:
+      213: -1952749031981972555
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_8
+  - first:
+      213: 535459975162999504
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_9
+  - first:
+      213: 7261087633289910522
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_10
+  - first:
+      213: -497607456275162596
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_11
+  - first:
+      213: 4064090134368779979
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_12
+  - first:
+      213: 3394900007729797137
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_13
+  - first:
+      213: -1084053434744041705
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_14
+  - first:
+      213: 5052443590344593159
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_15
+  - first:
+      213: -2759218628605586300
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_16
+  - first:
+      213: 8755176135121702457
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_17
+  - first:
+      213: -8478587462866693965
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_18
+  - first:
+      213: 4845459452797381127
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_19
+  - first:
+      213: -2479199566890982275
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_20
+  - first:
+      213: -3008063019737818758
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_21
+  - first:
+      213: -6706980775236026237
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_22
+  - first:
+      213: 5941774403479396916
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_23
+  - first:
+      213: -2389095137445044040
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_24
+  - first:
+      213: 2254967938024446044
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_25
+  - first:
+      213: -6399393196959385063
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_26
+  - first:
+      213: 2083345067210094939
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_27
+  - first:
+      213: 3259751463064273354
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_28
+  - first:
+      213: 3430814252961389624
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_29
+  - first:
+      213: 7158501968632675388
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_30
+  - first:
+      213: -6880301692655996948
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_31
+  - first:
+      213: -4388267336215483128
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_32
+  - first:
+      213: -5299156690792764895
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_33
+  - first:
+      213: -1518269598209854300
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_34
+  - first:
+      213: -8902386417865278890
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_35
+  - first:
+      213: -7978460871073628966
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_36
+  - first:
+      213: 7368672559095245086
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_37
+  - first:
+      213: -1837605291394794342
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_38
+  - first:
+      213: -5828714266202871167
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_39
+  - first:
+      213: -7859160556747113987
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_40
+  - first:
+      213: 673638023924411346
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_41
+  - first:
+      213: 3009046002158417478
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_42
+  - first:
+      213: 820621664781698861
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_43
+  - first:
+      213: -4843195741369048558
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_44
+  - first:
+      213: -2407243564147308471
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_45
+  - first:
+      213: -3043110079237999349
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_46
+  - first:
+      213: -1868448617829244743
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_47
+  - first:
+      213: -2445635586777643887
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_48
+  - first:
+      213: 8477827912478899252
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_49
+  - first:
+      213: 5667607863900228330
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_50
+  - first:
+      213: -4248800474334573367
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_51
+  - first:
+      213: -6205647710789508159
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_52
+  - first:
+      213: -5397655587166687298
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_53
+  - first:
+      213: -4773590041345531247
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_54
+  - first:
+      213: 6815016300024310953
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_55
+  - first:
+      213: -402014977998623115
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_56
+  - first:
+      213: 890468591674015915
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_57
+  - first:
+      213: 5084573871367904610
+    second: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 331
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5872ce0fcb76ec0800000000000000
+      internalID: -3573680036355013144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 331
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bba4f5bfe7a06d0800000000000000
+      internalID: -3023464581725242598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 331
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2a102d4bc7c31d0800000000000000
+      internalID: -3369681305120693548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 331
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172b16455d27b2b40800000000000000
+      internalID: 5416549237412442737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 301
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796fdb573132868e0800000000000000
+      internalID: -1700070292845627753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 301
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc3b4ab559cb2560800000000000000
+      internalID: 7290141791864175815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 301
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2514cec4e9465ca0800000000000000
+      internalID: -6028549804118502101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 301
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef3414c0db0b33f0800000000000000
+      internalID: -920128707596369952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 301
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b30a3df91176e4e0800000000000000
+      internalID: -1952749031981972555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2b70ba2065e6700800000000000000
+      internalID: 535459975162999504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af81a394bb094c460800000000000000
+      internalID: 7261087633289910522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a122ba7a42819f0800000000000000
+      internalID: -497607456275162596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce783ad17c866830800000000000000
+      internalID: 4064090134368779979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11894b0f19b1d1f20800000000000000
+      internalID: 3394900007729797137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f0a88052ba4f0f0800000000000000
+      internalID: -1084053434744041705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 241
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f403a2da2ed1640800000000000000
+      internalID: 5052443590344593159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 241
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484d258b64945b9d0800000000000000
+      internalID: -2759218628605586300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 241
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e08e7de42a08970800000000000000
+      internalID: 8755176135121702457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 241
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b010cebf91065a80800000000000000
+      internalID: -8478587462866693965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 241
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aeb8133b78e3340800000000000000
+      internalID: 4845459452797381127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 241
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d742928112d189dd0800000000000000
+      internalID: -2479199566890982275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 211
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d986fe963146d0800000000000000
+      internalID: -3008063019737818758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 211
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380cea025840ce2a0800000000000000
+      internalID: -6706980775236026237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 211
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432e5eec65c657250800000000000000
+      internalID: 5941774403479396916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 211
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0a9f561aa38ded0800000000000000
+      internalID: -2389095137445044040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 181
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5897dd64614b4f10800000000000000
+      internalID: 2254967938024446044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 181
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a3f25fac9c037a0800000000000000
+      internalID: -6399393196959385063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 151
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59be93fc4789ec10800000000000000
+      internalID: 2083345067210094939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 151
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1810c4fa6fc3d20800000000000000
+      internalID: 3259751463064273354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 151
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c5c16c263bc9f20800000000000000
+      internalID: 3430814252961389624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 151
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cf844fc9b185360800000000000000
+      internalID: 7158501968632675388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 121
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef68bd50124480a0800000000000000
+      internalID: -6880301692655996948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 121
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d2d659b1eb913c0800000000000000
+      internalID: -4388267336215483128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 121
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aa92cd01d9576b0800000000000000
+      internalID: -5299156690792764895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 121
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a43d6538d50eeae0800000000000000
+      internalID: -1518269598209854300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 121
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ab0e548be547480800000000000000
+      internalID: -8902386417865278890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 121
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc7d450c10d64190800000000000000
+      internalID: -7978460871073628966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 91
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e196a0fc6a8c24660800000000000000
+      internalID: 7368672559095245086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 91
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cf80939b38f76e0800000000000000
+      internalID: -1837605291394794342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 91
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ae9b9b14f3c1fa0800000000000000
+      internalID: -5828714266202871167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 91
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9b35efc17aee290800000000000000
+      internalID: -7859160556747113987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbe533b63e395900800000000000000
+      internalID: 673638023924411346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 62
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6463677756742c920800000000000000
+      internalID: 3009046002158417478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 61
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d278d486e0f636b00800000000000000
+      internalID: 820621664781698861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 61
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2126302322389ccb0800000000000000
+      internalID: -4843195741369048558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94887278bb0c79ed0800000000000000
+      internalID: -2407243564147308471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_46
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 31
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05bb9a8183b4c5d0800000000000000
+      internalID: -3043110079237999349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_47
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 31
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0e73da1efe116e0800000000000000
+      internalID: -1868448617829244743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 31
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1948010346b5f0ed0800000000000000
+      internalID: -2445635586777643887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 31
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c3236a19b47a570800000000000000
+      internalID: 8477827912478899252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 44
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeacbfde25367ae40800000000000000
+      internalID: 5667607863900228330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_51
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 31
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccc6cdca7a3905c0800000000000000
+      internalID: -4248800474334573367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3ec25394c11e9a0800000000000000
+      internalID: -6205647710789508159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 31
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfe60b67dca715b0800000000000000
+      internalID: -5397655587166687298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192e142262dc0cdb0800000000000000
+      internalID: -4773590041345531247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac2275a73dc39e50800000000000000
+      internalID: 6815016300024310953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_56
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e610ae181cb6af0800000000000000
+      internalID: -402014977998623115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba04f5a57749b5c00800000000000000
+      internalID: 890468591674015915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_58
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ddd1d2ff8009640800000000000000
+      internalID: 5084573871367904610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_0: -3573680036355013144
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_1: -3023464581725242598
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_10: 7261087633289910522
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_11: -497607456275162596
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_12: 4064090134368779979
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_13: 3394900007729797137
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_14: -1084053434744041705
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_15: 5052443590344593159
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_16: -2759218628605586300
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_17: 8755176135121702457
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_18: -8478587462866693965
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_19: 4845459452797381127
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_2: -3369681305120693548
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_20: -2479199566890982275
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_21: -3008063019737818758
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_22: -6706980775236026237
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_23: 5941774403479396916
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_24: -2389095137445044040
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_25: 2254967938024446044
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_26: -6399393196959385063
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_27: 2083345067210094939
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_28: 3259751463064273354
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_29: 3430814252961389624
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_3: 5416549237412442737
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_30: 7158501968632675388
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_31: -6880301692655996948
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_32: -4388267336215483128
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_33: -5299156690792764895
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_34: -1518269598209854300
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_35: -8902386417865278890
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_36: -7978460871073628966
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_37: 7368672559095245086
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_38: -1837605291394794342
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_39: -5828714266202871167
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_4: -1700070292845627753
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_40: -7859160556747113987
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_41: 673638023924411346
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_42: 3009046002158417478
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_43: 820621664781698861
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_44: -4843195741369048558
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_45: -2407243564147308471
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_46: -3043110079237999349
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_47: -1868448617829244743
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_48: -2445635586777643887
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_49: 8477827912478899252
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_5: 7290141791864175815
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_50: 5667607863900228330
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_51: -4248800474334573367
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_52: -6205647710789508159
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_53: -5397655587166687298
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_54: -4773590041345531247
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_55: 6815016300024310953
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_56: -402014977998623115
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_57: 890468591674015915
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_58: 5084573871367904610
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_6: -6028549804118502101
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_7: -920128707596369952
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_8: -1952749031981972555
+      PC _ Computer - Tiny Pasture - Animals - Hamster (Orange)_9: 535459975162999504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
